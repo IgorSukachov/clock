@@ -1,4 +1,4 @@
 # clock
 custom clock
-[Demo]()
+[Demo](https://igorsukachov.github.io/clock/)
 ![Screenshot](clock.png)
